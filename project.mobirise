@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "GATEWAY TESTPREP",
-    "currentPage": "page2.html",
+    "currentPage": "careers.html",
     "theme": {
       "name": "mobirise5",
       "title": "Mobirise 5",
@@ -937,7 +937,7 @@
         }
       ]
     },
-    "page1.html": {
+    "enroll.html": {
       "settings": {
         "title": "Enroll",
         "order": 1
@@ -1572,7 +1572,7 @@
         }
       ]
     },
-    "page2.html": {
+    "careers.html": {
       "settings": {
         "title": "Careers",
         "order": 2
